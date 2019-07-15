@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1 </string>
+    <string name="about_activity_title">About ALC</string>
+    <string name="profile_activity_title">My Profile</string>
+    <string name="sadic_abubakari">Sadic  Abubakari</string>
+    <string name="track">Track:           Android</string>
+    <string name="email">Email:    sadicabubakari@yahoo.com</string>
+    <string name="username">Slack USername:    @Sadic Abubakari</string>
+    <string name="number">Number:       +233554782936</string>
+    <string name="country">Country:  Ghana</string>
+</resources>
